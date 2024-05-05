@@ -1,0 +1,8 @@
+.JobCardMain{
+    background-color: rgb(187, 252, 234);
+    height: 30vh;
+    width: 30vw;
+    border-radius: 15pt;
+    margin: 15pt;
+    padding: 15pt;
+}
